@@ -1,3 +1,3 @@
 # TJRezonanser
 Make TJ rezonans again!
-This browser extension adds "Резонанс" on TJ.
+This browser userscript adds "Резонанс" on TJ.
